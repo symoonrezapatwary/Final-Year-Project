@@ -75,8 +75,7 @@ for value in values.split(" "):
         print("Correct!")
         
         
-        if __name__ == "__main__":
-    app.run()
+       
 
 
 
